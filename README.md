@@ -35,7 +35,7 @@ Models Implemented
 -SARIMA (seasonal ARIMA)
 -ETS (A, A, A)
 
-Key Skills Demonstrated
+#Key Skills Demonstrated
 -Time series analysis and forecasting
 -Stationarity testing (ADF test)
 -ACF/PACF interpretation
@@ -45,7 +45,7 @@ Key Skills Demonstrated
 -Residual diagnostics and model validation
 -Integrating KNIME workflows with R
 
-Results
+#Results
 
 The SARIMA model was selected as the final model based on superior performance in time series cross-validation. It achieved significantly lower forecast errors compared to benchmark models, with a MASE of 0.59, indicating approximately 41% lower error than a naive approach.
 
